@@ -1,1 +1,4 @@
-
+[build]
+  base = "ds9396113-pixel"
+  command = "npm run build"
+  publish = ".next"
